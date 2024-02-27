@@ -172,7 +172,7 @@ textarea {
     box-shadow: 0 2px 3px #F0F4F8;
   }
 
-  /* input[type=checkbox]:checked+label {
+  input[type=checkbox]:checked+label {
     color: #AEB7C6;
     text-decoration: line-through;
   }
@@ -181,7 +181,7 @@ textarea {
     background-color: transparent;
     border-color: transparent;
     box-shadow: none;
-  } */
+  }
 
   input[type=checkbox]+label span.check::after {
     width: 100%;
@@ -189,6 +189,7 @@ textarea {
     content: '';
     display: block;
     position: absolute;
+    background-image: url('https://tjgillweb.github.io/Vacation-Todo-App/images/tick.svg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: 16px 16px;
