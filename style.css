@@ -40,7 +40,7 @@ textarea {
 .cover-img {
 
   .cover-inner {
-    background: url('./960x0.webp'); 
+    background: url('./img/960x0.webp'); 
     height: 190px;
     background-size: cover;
     background-position: 10% 20%;
