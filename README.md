@@ -1,3 +1,5 @@
+![To-Do List Uygulaması](https://github.com/MaralTach/newToDolist/blob/main/img/todoList.gif)
+
 # To-Do List Application
 
 This is a simple To-Do list application built using HTML, CSS, and JavaScript. It allows users to add and delete tasks from their to-do list.
@@ -23,5 +25,5 @@ This is a simple To-Do list application built using HTML, CSS, and JavaScript. I
    - Check the checkbox next to the task to mark it as completed.
    - Checked tasks will have a strike-through effect to indicate completion.
 
-![To-Do List Uygulaması](https://github.com/MaralTach/newToDolist/blob/main/img/todoList.gif)
+
 
