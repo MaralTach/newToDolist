@@ -1,10 +1,11 @@
 
 
 # To-Do List Application
+This is a simple To-Do list application built using HTML, CSS, and JavaScript. It allows users to add and delete tasks from their to-do list.
 
 ![To-Do List Uygulaması](https://github.com/MaralTach/newToDolist/blob/main/img/todoList.gif)
 
-This is a simple To-Do list application built using HTML, CSS, and JavaScript. It allows users to add and delete tasks from their to-do list.
+
 
 ## Features
 
